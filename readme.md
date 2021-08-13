@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/r21gh?style=social)
 
 - 📚 I am a researcher at Erlangen-Nuremberg University (OSS Group)
-- 💻 I'm Working on Distributed Systems and Data Engineering 
+- 💻 I'm working on Distributed Systems and Data Engineering 
 - 🗺 Rust, Go, Julia, Python
 - 👯❓ I'm looking to collaborate on [topics that I love](https://r21gh.github.io/research/).
 - 📫 How to reach me: [Linkedin](http://linkedin.com/in/rezaghanbari), [Twitter](https://twitter.com/r21gh), [HomePage](http://r21gh.github.io/), [University Page](https://oss.cs.fau.de/person/reza-ghanbari/)
