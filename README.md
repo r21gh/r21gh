@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on cybersecurity projects🔒<br>👯 I’m looking to collaborate on Open Source projects 💻⚙️<br>🌱 I’m currently learning French 🇫🇷<br>⚡ I like reading self-improvement books 📚
+🔭 I’m currently working on cybersecurity projects🔒<br> I’m looking to collaborate on Open Source projects 💻⚙️<br>🌱 I’m currently learning French 🇫🇷<br>⚡ I like reading self-improvement books 📚
 
 
 ## 🌐 Socials:
