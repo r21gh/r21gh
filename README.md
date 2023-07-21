@@ -9,11 +9,7 @@
 
 ###
 
-<br clear="both">
 
-<img align="right" height="150" src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/50b465b3fe0cf81f0ca61da0c44208920ab62dbc.png"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
