@@ -1,6 +1,6 @@
 
 <p align="left">
-Hello, my name is Reza Ghanbari, and I am pursuing a Ph.D. in Computer Security at Delft University of Technology. My research focus is on eBPF, with a specific emphasis on eBPF security and vulnerabilities.
+Hello, my name is Reza Ghanbari, and I am a DevOps Engineer and also pursuing a Ph.D. in Computer Security at Delft University of Technology. My research focus is on eBPF, with a specific emphasis on eBPF security and vulnerabilities.
 
 In addition to my academic pursuits, I have extensive experience as a DevOps engineer. My skill set covers many technologies, including Docker and Kubernetes for containerization and orchestration. I am proficient in programming languages such as Golang, Python, and Rust, which enables me to build efficient tools and scripts.
 
