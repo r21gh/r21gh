@@ -26,6 +26,6 @@ In my free time, I'm interested in cybersecurity startups and read business-rela
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
 </div>
 
-
+> <em>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."</em> -- Martin Golding
 ###
 
