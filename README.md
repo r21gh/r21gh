@@ -30,6 +30,7 @@ In my free time, I'm interested in cybersecurity startups and read business-rela
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="Argocd logo"  />
   <img width="12" />
 </div>
+
 > <em>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."</em> -- Martin Golding
-###
+
 
