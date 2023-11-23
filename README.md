@@ -1,8 +1,6 @@
 
 <p align="left">
-I'm Reza Ghanbari, a DevOps Engineer with a Ph.D. in Computer Security. My research focuses on eBPF security and vulnerabilities.
-
-I'm skilled in system monitoring, cloud platforms like AWS and GCP, CI/CD pipelines, networking, DNS, and IaC.
+I'm Reza Ghanbari, a DevOps Engineer with a Ph.D. in Computer Security. My research focuses on eBPF security and vulnerabilities. I'm skilled in System Monitoring, Cloud Pplatforms like AWS and GCP, CI/CD pipelines, Networking, DNS, and IaC.
 
 In my free time, I'm interested in cybersecurity startups and read business-related books to stay informed and inspired in the tech industry.
   
