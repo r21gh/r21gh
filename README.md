@@ -32,4 +32,5 @@ In my free time, I'm interested in cybersecurity startups and read business-rela
 </div>
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=r21gh&theme=cobalt&show_icons=true)](https://github.com/r21gh)
 
