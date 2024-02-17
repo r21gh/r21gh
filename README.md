@@ -1,6 +1,6 @@
 
 <p align="left">
-I'm a DevOps Engineer and a Ph.D. Candidate in Computer Security. My research focuses on eBPF security and vulnerabilities. I'm skilled in Operating Systems, Cloud Platforms, CI/CD pipelines, Networking, Security, DNS, IaC, C/C++, Go, and Python.
+I'm a DevOps engineer and I like research on eBPF, security, and vulnerabilities. I'm skilled in Operating Systems, Cloud Platforms, CI/CD pipelines, Networking, Security, DNS, IaC, C/C++, Go, and Python.
 
 In my free time, I'm interested in cybersecurity startups and read business-related books to stay informed and inspired in the tech industry.
   
