@@ -2,7 +2,7 @@
 <p align="left">
 I'm a DevOps engineer and like researching eBPF, security, and vulnerabilities. I'm skilled in Operating Systems, Cloud Platforms, CI/CD pipelines, Networking, Security, DNS, IaC, C/C++, Go, and Python.
 
-In my free time, I'm interested in cybersecurity startups and read business-related books to stay informed and inspired in the tech industry.
+In my free time, I'm interested in cybersecurity and business-related books to stay informed and inspired in the tech industry.
   
 </p>
 
