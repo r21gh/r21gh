@@ -1,8 +1,9 @@
 
 <p align="left">
-I'm a DevOps engineer and like researching eBPF, security, and vulnerabilities. I'm skilled in Operating Systems, Cloud Platforms, CI/CD pipelines, Networking, Security, DNS, IaC, C/C++, Go, and Python.
 
-In my free time, I'm interested in cybersecurity and business-related books to stay informed and inspired in the tech industry.
+I'm a Platform Engineer/SRE (Site Reliability Engineer) passionate about exploring eBPF, security, and vulnerability research. My expertise lies in Operating Systems, Cloud Platforms, CI/CD pipelines, Networking, Security, DNS, IaC (Infrastructure as Code), and proficiency in languages such as C/C++, Go, and Python.
+
+During my spare time, I delve into cybersecurity and business-related literature to stay abreast of developments and inspired within the dynamic tech landscape.
   
 </p>
 
