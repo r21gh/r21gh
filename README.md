@@ -1,8 +1,7 @@
 
 <p align="left">
 
-I'm a Platform Engineer/SRE (Site Reliability Engineer) passionate about exploring eBPF, security, and vulnerability research. My expertise lies in Operating Systems, Cloud Platforms, CI/CD pipelines, Networking, Security, DNS, IaC (Infrastructure as Code), and proficiency in languages such as C/C++, Go, and Python.
-
+I'm passionate about exploring eBPF, security, and vulnerability. My expertise lies in Operating Systems, Cloud Platforms, CI/CD pipelines, Networking, Security, DNS, IaC (Infrastructure as Code), and proficiency in C/C++, Go, and Python.
 During my spare time, I delve into cybersecurity and business-related literature to stay abreast of developments and inspired within the dynamic tech landscape.
   
 </p>
