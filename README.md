@@ -1,5 +1,5 @@
 
-<p align="left">
+<p align="center">
 Platform Engineer | AWS | Kubernetes | eBPF
 
   
