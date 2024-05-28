@@ -1,7 +1,7 @@
 
 <p align="left">
+Platform Engineer | AWS | Kubernetes | eBPF
 
-I'm a Platform Engineer/SRE (Site Reliability Engineer) passionate about exploring eBPF, security, and vulnerability research. My expertise lies in operating systems, cloud platforms, CI/CD pipelines, networking, security, DNS, and IaC (infrastructure as code), and I am proficient in languages such as C/C++, Go, and Python. During my spare time, I delve into cybersecurity and business-related literature to stay abreast of developments and inspired within the dynamic tech landscape.
   
 </p>
 
