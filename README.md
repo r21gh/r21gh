@@ -2,7 +2,7 @@
 <p align="center">
 Platform Engineer | AWS | Kubernetes | eBPF
 
-  
+![r21gh's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/r21gh?cardType=level-alternate&theme=prussian&preferLogin=false)](https://git.io/awesome-stats-card)
 </p>
 
 <div align="center">
