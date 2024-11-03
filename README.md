@@ -1,11 +1,4 @@
 
-<p align="center">
-Platform Engineer | AWS | Kubernetes | eBPF
-
-
-</p>
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
   <img width="12" />
@@ -23,5 +16,8 @@ Platform Engineer | AWS | Kubernetes | eBPF
   <img width="12" />
 </div>
 
+### 🚀 About Me
+I'm a passionate **Platform Engineer** with experience in cloud-native technologies, infrastructure development, and performance optimization. I've been programming since I was 16, and over the years, I've developed a particular love for Go, Python, and C/C++.
+I enjoy working with Kubernetes and actively contribute to its documentation and open-source projects that improve observability and scalability. My work spans eBPF, AWS, and various DevOps tools, and I'm currently focused on building solutions that leverage ebpf and AI to enhance system observability and troubleshooting.
 
 
