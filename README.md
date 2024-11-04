@@ -16,10 +16,10 @@
   <img width="12" />
 </div>
 
-### 🚀 About Me
-- Passionate Platform Engineer with a focus on cloud-native technologies, infrastructure development, and performance optimization.
+### About Me
+- Passionate Platform Engineer focusing on cloud-native technologies, infrastructure development, and performance optimization.
 - Started programming at 16 and developed a strong affinity for Go, Python, and C/C++.
-- Enthusiastic about Kubernetes; actively contribute to its documentation and open-source projects aimed at improving observability and scalability.
+- Enthusiastic about Kubernetes; actively contribute to its documentation and open-source projects, aiming improving observability and scalability.
 - Currently building solutions that leverage eBPF and AI to enhance system observability and troubleshooting in DevOps environments.
 
 
