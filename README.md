@@ -18,7 +18,8 @@
   <img width="12" />
   
 </div>
-### 🚀 About Me  
+
+🚀 About Me  
 
 - **Cloud Architecture & Migrations** – Designing scalable, secure, and highly available cloud environments with AWS and Kubernetes.  
 - **Infrastructure as Code (IaC) & Automation** – Expertise in Terraform, Ansible, and GitHub Actions for efficient infrastructure management.  
