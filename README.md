@@ -18,11 +18,14 @@
   <img width="12" />
   
 </div>
+### 🚀 About Me  
 
-### About Me
-- Passionate Platform Engineer focusing on cloud-native technologies, infrastructure development, and performance optimization.
-- Started programming at 16 and developed a strong affinity for Go, Python, and C/C++.
-- Enthusiastic about Kubernetes; actively contribute to its documentation and open-source projects, aiming improving observability and scalability.
-- Currently building solutions that leverage eBPF and AI to enhance system observability and troubleshooting in DevOps environments.
+- **Cloud Architecture & Migrations** – Designing scalable, secure, and highly available cloud environments with AWS and Kubernetes.  
+- **Infrastructure as Code (IaC) & Automation** – Expertise in Terraform, Ansible, and GitHub Actions for efficient infrastructure management.  
+- **CI/CD & DevOps** – Building robust pipelines to enhance software delivery and operational efficiency.  
+- **Networking & Security** – Advanced knowledge of network architectures, Cilium, and eBPF-based security policies.  
+- **Programming & Development** – Proficient in Go and Python for automation and cloud-native solutions.  
+- **Observability & Monitoring** – Implementing Prometheus, Grafana, and the ELK stack for real-time insights.  
+- **DNS & Connectivity** – Managing DNS architectures, Route 53, and multi-cloud networking for seamless operations.  
 
 
