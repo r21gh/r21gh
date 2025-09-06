@@ -23,12 +23,11 @@
 
 🚀 About Me  
 
+- **Systems Programming** – Rust, Go, C, Ada for low-level and high-performance applications.  
+- **Kernel & eBPF** – Writing and optimizing kernel modules and eBPF programs.  
 - **Cloud Architecture & Migrations** – Designing scalable, secure, and highly available cloud environments with AWS and Kubernetes.  
 - **Infrastructure as Code (IaC) & Automation** – Expertise in Terraform, Ansible, and GitHub Actions for efficient infrastructure management.  
-- **CI/CD & DevOps** – Building robust pipelines to enhance software delivery and operational efficiency.  
 - **Networking & Security** – Advanced knowledge of network architectures, Cilium, and eBPF-based security policies.  
-- **Programming & Development** – Proficient in Go and Python for automation and cloud-native solutions.  
 - **Observability & Monitoring** – Implementing Prometheus, Grafana, and the ELK stack for real-time insights.  
-- **DNS & Connectivity** – Managing DNS architectures, Route 53, and multi-cloud networking for seamless operations.  
 
 
